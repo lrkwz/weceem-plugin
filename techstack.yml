@@ -1,0 +1,77 @@
+repo_name: lrkwz/weceem-plugin
+report_id: f4d9905df40fc36c60f5711b628cc876
+repo_type: Public
+timestamp: '2023-11-09T12:21:00+00:00'
+requested_by: julyantonicheva
+provider: github
+branch: master
+detected_tools_count: 7
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: Groovy
+  description: A multi-faceted language for the Java platform
+  website_url: https://groovy-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source: grails-app/i18n/application.properties
+  last_updated_by: Marc Palmer
+  last_updated_on: 2009-07-28 13:12:21.000000000 Z
+- name: XSLT
+  description: The official Twitter account for the sum of all knowledge, Wikipedia.
+    Overseen by @jeffelder.
+  website_url: https://en.wikipedia.org/wiki/XSLT
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
+  detection_source: Repo Metadata
